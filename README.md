@@ -82,9 +82,9 @@ Content-Type: application/json
 }
 ```
 
-## 5. Expected Results
+## Expected Results
 
-### 5.1 Valid Data
+### Valid Data
 
 #### Response:
 
@@ -101,7 +101,7 @@ Content-Type: application/json
 }
 ```
 
-### 5.2 Invalid Data
+### Invalid Data
 
 #### Response:
 
